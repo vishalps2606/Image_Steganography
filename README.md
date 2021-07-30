@@ -2,8 +2,7 @@
 Image_steganography is an application of Encryption and description of image along with the hiding the image facility.
 
 ### What is Steganography?
-Steganography is the art of hiding the fact that communication is taking place, by hiding information in other information. Many different carrier file formats can be used, but digital images
-are the most popular because of their frequency on the Internet. For hiding secret information in images, there exists a large variety of stenographic techniques some are more complex than others and all of them have respective strong and weak points.
+Steganography is the art of hiding the fact that communication is taking place, by hiding information in other information. Many different carrier file formats can be used, but digital images are the most popular because of their frequency on the Internet. For hiding secret information in images, there exists a large variety of stenographic techniques some are more complex than others and all of them have respective strong and weak points.    (source - slideshare)
 
 ## How to use this application?
 - Navigate to the out folder, click on it.
